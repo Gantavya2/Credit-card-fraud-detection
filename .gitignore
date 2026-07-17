@@ -1,3 +1,6 @@
+# Dataset (too large for GitHub)
+creditcard.csv
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
